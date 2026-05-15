@@ -21,7 +21,7 @@ nav{
 }
 
 .logo{
-    color:cyan;
+    color:palevioletred;
 }
 
 nav ul{
@@ -65,7 +65,7 @@ nav ul li a:hover{
 button{
     padding:12px 30px;
     border:none;
-    background:cyan;
+    background:palevioletred;
     cursor:pointer;
     font-size:16px;
 }
@@ -75,7 +75,7 @@ button{
 .about{
     padding:80px 50px;
     text-align:center;
-    color:cyan;
+    color:palevioletred;
 }
 
 /* Projects */
@@ -86,7 +86,7 @@ button{
 }
 
 .project-box{
-    background:turquoise;
+    background:palevioletred;
     padding:20px;
     margin-top:20px;
     border-radius:10px;
